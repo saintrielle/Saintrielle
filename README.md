@@ -102,6 +102,20 @@ The public home for Saint tools, including **Saint Relayer** and **Saint Builder
 - Showcases Saint Builder and related Discord tools
 - Built as the public-facing hub while project code stays private
 
+## Featured Project
+
+### [Saint's Crew World](https://github.com/saintrielle/saints-crew-world)
+
+A local pixel-world desktop app that makes real AI-assisted project work visible and understandable. It connects Codex / ChatGPT, Claude, or Gemini to a selected project with read-only exploration, guarded edits, approval prompts, and evidence-driven activity.
+
+<p align="center"><img alt="Saint's Crew World icon" src="https://raw.githubusercontent.com/saintrielle/saints-crew-world/main/assets/app-icon.png" width="180"></p>
+
+<p align="center"><img alt="Saint's Crew World characters" src="https://raw.githubusercontent.com/saintrielle/saints-crew-world/main/renderer/assets/characters.png" width="72%"></p>
+
+- Real provider-backed work instead of pretend progress
+- Windows desktop app with local project isolation
+- MIT licensed community release
+
 ## Currently Building
 
 - **Saint Relayer**: voice coordination for MMO guilds
@@ -216,18 +230,3 @@ I have built and customized private-server game projects with custom content, ga
 
 - GitHub: [@saintrielle](https://github.com/saintrielle)
 - Discord: Saintrielle
-
-
-## Featured Project
-
-### [Saint's Crew World](https://github.com/saintrielle/saints-crew-world)
-
-A local pixel-world desktop app that makes real AI-assisted project work visible and understandable. It connects Codex / ChatGPT, Claude, or Gemini to a selected project with read-only exploration, guarded edits, approval prompts, and evidence-driven activity.
-
-<p align="center"><img alt="Saint's Crew World icon" src="https://raw.githubusercontent.com/saintrielle/saints-crew-world/main/assets/app-icon.png" width="180"></p>
-
-<p align="center"><img alt="Saint's Crew World characters" src="https://raw.githubusercontent.com/saintrielle/saints-crew-world/main/renderer/assets/characters.png" width="72%"></p>
-
-- Real provider-backed work instead of pretend progress
-- Windows desktop app with local project isolation
-- MIT licensed community release
